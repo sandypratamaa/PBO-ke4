@@ -1,4 +1,4 @@
-package pbogab;
+package week4;
 
 class CPU {
     double price;
