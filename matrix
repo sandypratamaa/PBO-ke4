@@ -41,6 +41,8 @@ public class tgs4 {
         x.show();
         System.out.println();
 
-        A.times(x).show();	    
+        A.times(x).show();	
+	System.out.println();
         }
+}
 }
